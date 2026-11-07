@@ -4,14 +4,14 @@ title: Privacy Policy
 
 # Privacy Policy
 
-**App:** [APP NAME] (Android, package `[PACKAGE ID]`)
-**Developer:** [DEVELOPER NAME]
-**Effective date:** [DATE]
-**Contact:** [CONTACT EMAIL]
+**App:** आरतीदीप (Android, package `com.nitinbhandari.aartideep`)
+**Developer:** Nitin Bhandari
+**Effective date:** 07/11/2026
+**Contact:** nnb.developer@gmail.com
 
 ## Summary
 
-[APP NAME] is an offline devotional app. It has no accounts and no servers. The developer does not collect, receive, share or sell any personal information.
+आरतीदीप is an offline devotional app. It has no accounts and no servers. The developer does not collect, receive, share or sell any personal information.
 
 ## 1. Information we collect
 
@@ -55,7 +55,7 @@ We may update this policy. If the app's handling of data changes, we will update
 
 ## 9. Contact
 
-[nnb.developer@gmail.com]
+nnb.developer@gmail.com
 
 ---
 
@@ -67,4 +67,4 @@ We may update this policy. If the app's handling of data changes, we will update
 - तुमची आवडती यादी, तुम्ही बनवलेल्या याद्या आणि वाचन सेटिंग्ज (अक्षरांचा आकार इ.) फक्त तुमच्या फोनमध्येच साठवल्या जातात. ॲप काढून टाकल्यावर किंवा स्टोरेज साफ केल्यावर त्या नष्ट होतात.
 - QR तयार करताना त्यात फक्त यादीचे नाव आणि आयटमची ओळख (ID) असते. स्कॅन करताना कॅमेरा फक्त QR वाचण्यासाठी वापरला जातो. कॅमेऱ्याची चित्रे साठवली किंवा पाठवली जात नाहीत.
 - ॲपमध्ये जाहिराती, ॲनालिटिक्स किंवा क्रॅश-रिपोर्टिंग सेवा नाहीत.
-- प्रश्नांसाठी संपर्क: [nnb.developer@gmail.com]
+- प्रश्नांसाठी संपर्क: nnb.developer@gmail.com
